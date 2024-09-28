@@ -13,11 +13,11 @@ This Arduino project implements a simple ping pong game on an I2C LCD display, a
 ## Hardware Requirements
 - Arduino board (e.g., Arduino Uno)<br>
 <img src="https://github.com/user-attachments/assets/19d775dd-591b-4213-9fb4-46e64a035710" alt="Ping Pong Game" width="300" /><br>
-- I2C LCD display (e.g., 20x4)
-<img src="https://github.com/user-attachments/assets/27685555-1894-4e65-8259-49b063b496fc" alt="I2C LCD Display" width="300" />
-- Push buttons (4 in total)
-<img src="https://github.com/user-attachments/assets/e1b2cb7a-1751-4d75-a84e-6144d75072ad" alt="Push Buttons" width="300" />
-- Breadboard and jumper wires
+- I2C LCD display (e.g., 20x4)<br>
+<img src="https://github.com/user-attachments/assets/27685555-1894-4e65-8259-49b063b496fc" alt="I2C LCD Display" width="300" /><br>
+- Push buttons (4 in total)<br>
+<img src="https://github.com/user-attachments/assets/e1b2cb7a-1751-4d75-a84e-6144d75072ad" alt="Push Buttons" width="300" /><br>
+- Breadboard and jumper wires<br>
 <img src="https://github.com/user-attachments/assets/433e2928-560a-4429-a543-a697e1f78ff1" alt="Breadboard" width="300" />
 <img src="https://github.com/user-attachments/assets/f3d9fb72-f04d-4151-8575-249e614ef931" alt="Jumper Wires" width="300" />
 
