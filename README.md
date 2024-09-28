@@ -3,7 +3,6 @@
 ## Overview
 This Arduino project implements a simple ping pong game on an I2C LCD display, allowing two players to control paddles and compete to score points. The game incorporates features like adjustable ball speed, score tracking, and game-over conditions.
 
-![Ping Pong Game](path_to_your_photo/pong_game_display.jpg) <!-- Replace with actual path to your image -->
 
 ## Features
 - **Two Player Mode**: Supports two players using buttons to control paddles.
