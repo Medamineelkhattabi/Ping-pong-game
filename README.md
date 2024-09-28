@@ -13,7 +13,7 @@ This Arduino project implements a simple ping pong game on an I2C LCD display, a
 
 ## Hardware Requirements
 - Arduino board (e.g., Arduino Uno)
-  ![pngwing com](https://github.com/user-attachments/assets/19d775dd-591b-4213-9fb4-46e64a035710)
+<img src="https://github.com/user-attachments/assets/19d775dd-591b-4213-9fb4-46e64a035710" alt="Ping Pong Game" width="300" />
 - I2C LCD display (e.g., 20x4)
   ![Sans-titre-10](https://github.com/user-attachments/assets/27685555-1894-4e65-8259-49b063b496fc)
 - Push buttons (4 in total)
