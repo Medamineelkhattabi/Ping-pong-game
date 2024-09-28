@@ -27,7 +27,7 @@ This Arduino project implements a simple ping pong game on an I2C LCD display, a
 ## Installation
 1. **Connect Hardware**: 
    - Connect the I2C LCD to the Arduino.
-   - Connect the buttons to the specified digital pins.
+   - Connect the buttons to the specified digital pins.<br>
    <img src="https://github.com/user-attachments/assets/07b4d66e-c21e-4b06-8c01-6a3b1398ee9b" alt="Wiring Diagram" width="300" />
 
 2. **Install Libraries**:
